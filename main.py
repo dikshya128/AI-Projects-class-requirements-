@@ -1,6 +1,7 @@
 import copy
 import pydot
 import numpy as np
+
 class Node:
     goal_state =np.array([[8,0,3], [2,6,4], [1,7,5]])
     i = 0
